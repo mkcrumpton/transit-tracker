@@ -87,7 +87,7 @@ The Data Flow Diagram would be acceptable as a substitute to all the individual 
 
 #### Data Flow Diagram
 
-![Data Flow](./assets/TransitTrackerDataFlow.png)
+![Data Flow](https://github.com/FullstackAcademy/technical-interview-prep/blob/master/REACTO-problems/04-system-design/assets/TransitTrackerDataFlow.png)
 
 #### Individual User Stories (Use these if they candidate is really stuck)
 
